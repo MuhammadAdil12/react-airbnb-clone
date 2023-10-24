@@ -4,7 +4,7 @@ function Navbar(){
     return (
         <>
             <nav className="navbar">
-                <img src={img1} alt="" />
+                <img src={img1} alt="" className="navbar-img" />
             </nav>
         </>
     )
